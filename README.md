@@ -9,4 +9,4 @@ My agent successfully learns to play the game by himself. Although it takes a lo
 
 
 ![alt text](https://github.com/yuntaow/AlphaGo-for-WatchYourBack/blob/master/support%20image%201.png)
-![alt text](https://github.com/yuntaow/AlphaGo-for-WatchYourBack/blob/master/support%20image%202.png)
+
